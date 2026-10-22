@@ -1,0 +1,8 @@
+PyQt5>=5.15
+Pillow>=9.1
+python-barcode>=0.15
+qrcode>=7.0
+pyserial>=3.5
+openpyxl>=3.0
+pyodbc>=4.0
+pywin32>=300; sys_platform == "win32"
